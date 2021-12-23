@@ -1,5 +1,4 @@
 # xcache
 xcache
 
-
-[img](xcache-logo.png)
+![img](xcache-logo.png)
