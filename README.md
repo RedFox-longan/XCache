@@ -5,4 +5,4 @@ XCache 是免费开源的C/C++的IDE编辑器、支持跨平台，现代界面�
 
 XCache 默认主题是用Solarized Light(日光灯)
 
-![img](xcache-logo.png)
+![img](xcache-logo/xcache-logo.png)
