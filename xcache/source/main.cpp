@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-#include <stdio.h>
-int main() {
-    /* 我的第一个 C 程序 */
+// XCache
+
+int main(int argc, char *argv[]) {
     printf("Hello, World! \n");
     return 0;
 }
