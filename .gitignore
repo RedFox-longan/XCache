@@ -1,0 +1,82 @@
+# cmake
+cmake-build-debug/
+cmake-build-debug-mingw/
+cmake-build-debug-mingw64/
+cmake-build-debug-visual-studio/
+
+cmake-build-release/
+cmake-build-release-mingw/
+cmake-build-release-mingw64/
+cmake-build-release-visual-studio/
+
+# xmake
+.xmake/
+build/
+output/
+x64/
+Debug/
+Release/
+
+
+# MacOS
+.DS_Store/
+
+# idea
+.idea/
+idea/
+out/
+
+# vscode
+.vscode
+.vs
+
+# kde
+.kde
+*.kde
+build_*
+
+
+# krita
+compile_commands.json
+*.orig
+*.rej
+__pycache__
+*.egg-info
+*.trace
+build
+qtcreator-build
+*.kdev4
+*~
+.kateconfig
+CMakeLists.txt.user*
+.directory
+*.autosave
+*.swp
+.gdb_history
+.kdev_include_paths
+*.config
+*.creator
+*.creator.user
+*.files
+*.includes
+.DS_Store
+*.kate-swap
+.idea
+GTAGS
+GPATH
+GRTAGS
+GSYMS
+BROWSE
+*.kate-swp
+/po/
+build_dir
+.flatpak-builder
+.cache
+
+cmake-build-debug/
+cmake-build-debug-mingw/
+cmake-build-debug-mingw64/
+
+cmake-build-release/
+cmake-build-release-mingw/
+cmake-build-release-mingw64/
