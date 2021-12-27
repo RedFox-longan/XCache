@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/svgicons">
+        <file>svgicons/xcache-logo.svg</file>
+        <file>svgicons/xcache.ico</file>
+        <file>svgicons/saveall.svg</file>
+        <file>svgicons/file/file.svg</file>
+        <file>svgicons/folder.svg</file>
+        <file>svgicons/tool/print.svg</file>
+        <file>svgicons/close.svg</file>
+        <file>svgicons/tool/build.svg</file>
+        <file>svgicons/tool/debug.svg</file>
+        <file>svgicons/tool/debug_break.svg</file>
+        <file>svgicons/tool/git.svg</file>
+        <file>svgicons/tool/run.svg</file>
+        <file>svgicons/tool/settings.svg</file>
+        <file>svgicons/file/c.svg</file>
+        <file>svgicons/file/cmake.svg</file>
+        <file>svgicons/file/cpp.svg</file>
+        <file>svgicons/file/h.svg</file>
+    </qresource>
+</RCC>
