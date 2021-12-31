@@ -19,5 +19,6 @@
   <ellipse stroke="null" ry="200" rx="200" id="svg_27" cy="511.99999" cx="712.00001" stroke-width="0" fill="#fff"/>
   <ellipse stroke="#000" ry="100" rx="100" id="svg_28" cy="512.00001" cx="711.99998" stroke-width="0" fill="#ff8212"/>
   <rect id="svg_29" height="105.45444" width="272.18154" y="459.27281" x="669.90921" stroke-width="0" fill="#ff8212" stroke="#000"/>
+  <rect stroke="#000" stroke-width="50" id="svg_3" height="550" width="974" y="237" x="25" fill="none"/>
  </g>
 </svg>
