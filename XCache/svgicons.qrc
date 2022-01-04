@@ -1,7 +1,5 @@
 <RCC>
     <qresource prefix="/svgicons">
-        <file>svgicons/xcache-logo.svg</file>
-        <file>svgicons/xcache.ico</file>
         <file>svgicons/saveall.svg</file>
         <file>svgicons/file/file.svg</file>
         <file>svgicons/folder.svg</file>
@@ -17,5 +15,7 @@
         <file>svgicons/file/cmake.svg</file>
         <file>svgicons/file/cpp.svg</file>
         <file>svgicons/file/h.svg</file>
+        <file>svgicons/tool/plugin.svg</file>
+        <file>svgicons/xcache-logo.svg</file>
     </qresource>
 </RCC>

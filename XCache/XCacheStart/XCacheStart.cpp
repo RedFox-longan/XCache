@@ -36,15 +36,14 @@
 // XCacheStart.png
 QImage image("XCacheStart.png");
 
-XCacheStart::XCacheStart(QDialog *parent) : QDialog(parent, Qt::FramelessWindowHint | Qt::WindowSystemMenuHint) {
-
+XCacheStart::XCacheStart(QDialog *parent) : QDialog(parent, Qt::FramelessWindowHint | Qt::WindowSystemMenuHint)
+{
     QScreen *screen = QGuiApplication::primaryScreen();
     QRect mm = screen->availableGeometry();
     int screen_width = mm.width();
     int screen_height = mm.height();
 
     setAttribute(Qt::WA_TranslucentBackground);
-
 
     // 启动界面 关闭
     QTimer *timer = new QTimer(this);
@@ -69,22 +68,20 @@ XCacheStart::XCacheStart(QDialog *parent) : QDialog(parent, Qt::FramelessWindowH
 }
 
 
-// XCacheStart.png
 
 // 绘画事件
-void XCacheStart::paintEvent(QPaintEvent *) {
-
-
+void XCacheStart::paintEvent(QPaintEvent *)
+{
     QPainter painter(this);
     painter.setRenderHint(QPainter::Antialiasing);
     QRect target(0, 0, sizeHint().width(), sizeHint().height());
     painter.drawImage(target, image);
-
 }
 
 
-// 尺寸提示
-QSize XCacheStart::sizeHint() const {
+// 尺寸提示 const
+QSize XCacheStart::sizeHint() const
+{
     return QSize(image.width() / 2, image.height() / 2);
     // image.width(), image.height()
 }

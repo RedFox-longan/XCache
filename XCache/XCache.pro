@@ -33,5 +33,6 @@ RESOURCES += \
     svgicons.qrc
 
 
-RC_ICONS = svgicons/xcache.ico
+
+RC_ICONS = svgicons/xcache-logo.ico
 

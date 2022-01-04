@@ -18,6 +18,8 @@
 */
 
 #include <QApplication>
+#include <QTranslator>
+#include <QDebug>
 #include "mainwindow.h"
 #include "XCacheStart/XCacheStart.h"
 #include "XCache.h"
@@ -29,8 +31,10 @@ int main(int argc, char *argv[])
 
     MainWindow w;
     w.show();
+    // qDebug() << tr("Output Info: ") << tr("Language - English");
 
-    if(0)
+
+    if(1)
     {
         XCacheStart start;
         start.exec();
