@@ -21,7 +21,6 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 #include "widgets/aboutdialog.h"
-#include "widgets/aboutgui.h"
 
 
 
