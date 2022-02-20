@@ -6,9 +6,9 @@
   <a href="https://jq.qq.com/?_wv=1027&k=xh0mFlcn"><img src="https://img.shields.io/badge/chat-on%20QQ-ff69b4.svg?" alt="QQ" /></a>
   <a href="https://www.patreon.com/beanflame"><img src="https://img.shields.io/badge/patreon-donate-orange.svg?logo=patreon" alt="beanflame on Patreon"></a>
   
-  <a href="#-Install">Install</a> •
-  <a href="#-Support">Support</a> •
-  <a href="#-license">License</a>
+  <a href="#Install">Install</a> •
+  <a href="#Support">Support</a> •
+  <a href="#License">License</a>
   
 </div>
 
@@ -21,7 +21,7 @@ XCache 默认主题是用Solarized Light(日光灯)
 
 # Support
 
-# license
+# License
 
 
 
