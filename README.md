@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1><img src="xcache-logo/xcache-logo.svg" width = "256" height = "256"/></h1>
+  <h1><img src="xcache-logo/xcache-logo.svg" width = "180" height = "180"/></h1>
   <h4>XCache IDE Dev Tool</h4>
   
   <a href="https://jq.qq.com/?_wv=1027&k=xh0mFlcn"><img src="https://img.shields.io/badge/chat-on%20QQ-ff69b4.svg?" alt="QQ" /></a>
