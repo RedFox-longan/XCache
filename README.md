@@ -22,7 +22,9 @@ XCache 默认主题是用Solarized Light(日光灯)
 # Support
 
 # License
-
+* [GPL-3.0 License](./LICENSE)
+* Copyright © 2020 - 2022 XCache
+* Copyright © 2020 - 2022 Space Longan
 
 
 
