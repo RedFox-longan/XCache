@@ -7,7 +7,7 @@
   <a href="https://afdian.net/@beanflame"><img src="https://img.shields.io/badge/Afdian-Donate-936BE5.svg?logo=Afdian" alt="beanflame on Afdian"></a>
   <a href="https://www.patreon.com/beanflame"><img src="https://img.shields.io/badge/patreon-Donate-FF424D.svg?logo=patreon" alt="beanflame on Patreon"></a>
   
-  [English](README_en-UK.md) • [简体中文](README_zh-CN.md)
+  [English](README_en-US.md) • [简体中文](README_zh-CN.md)
   
   <a href="#Install">Install</a> •
   <a href="#Support">Support</a> •
