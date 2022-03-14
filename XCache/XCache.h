@@ -23,7 +23,7 @@
 
 #include <QApplication>
 
-const QString XCACHE_NAME = "XCache";
+const QString XCACHE_NAME = "XCache 000";
 const QString XCACHE_VERSION = "0.0.1";
 
 #endif //XCACHE_XCACHE_H

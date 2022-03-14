@@ -41,8 +41,12 @@ void MainWindow::on_actionAbout_triggered()
    dialog.exec();
 }
 
+/*
+void MainWindow::on_actionAbout_Qt_triggered()
+{
 
-
+}
+*/
 
 // 单击菜单关闭事件
 void MainWindow::on_actionExit_triggered()
