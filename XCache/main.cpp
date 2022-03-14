@@ -1,5 +1,4 @@
 /*
-    Copyright (C) 2020-2022 Roy Qu (royqh1979@gmail.com)
     Copyright (C) 2021-2022 XCacha Team
     Copyright (C) 2021-2022 Space Longan
 

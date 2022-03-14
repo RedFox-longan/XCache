@@ -1,5 +1,4 @@
 /*
-    Copyright (C) 2020-2022 Roy Qu (royqh1979@gmail.com)
     Copyright (C) 2021-2022 XCacha Team
     Copyright (C) 2021-2022 Space Longan
 
@@ -20,7 +19,7 @@
 
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
-
+#include "widgets/aboutdialog.h"
 
 
 // widgets 小部件
@@ -38,8 +37,8 @@ MainWindow::~MainWindow()
 // 单击菜单帮助关于事件
 void MainWindow::on_actionAbout_triggered()
 {
-    AboutDialog dialog;
-    dialog.exec();
+   AboutDialog dialog;
+   dialog.exec();
 }
 
 
